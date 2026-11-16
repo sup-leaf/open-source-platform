@@ -9,3 +9,7 @@ build/
 # 过滤操作系统缩略图
 .DS_Store
 Thumbs.db
+
+# 过滤示例代码目录
+/sketch_nov16a1234/
+/libraries/
